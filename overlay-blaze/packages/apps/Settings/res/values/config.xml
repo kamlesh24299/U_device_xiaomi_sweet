@@ -18,8 +18,4 @@
          3 = right side
     -->
     <integer name="config_fingerprintSensorLocation">3</integer>
-
-    <!-- Maintainer info -->
-     <string name="config_maintainer_name" translatable="false">Aarav</string>
-    <string name="config_maintainer_link"  translatable="false">https://t.me/aarav_x</string>
 </resources>
