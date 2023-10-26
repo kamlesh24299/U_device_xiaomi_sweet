@@ -2,7 +2,7 @@
 git clone --depth=1 -b perf https://github.com/itsshashanksp/kernel_xiaomi_sm6150.git kernel/xiaomi/sweet
 
 #common_vendor
-git clone https://github.com/kamlesh24299/vendor_xiaomi_sm6150-common.git -b U vendor/xiaomi/sm6150-common
+git clone https://github.com/kamlesh24299/android_vendor_xiaomi_sm6150-common.git -b U vendor/xiaomi/sm6150-common
 
 #common_tree
 git clone https://github.com/kamlesh24299/device_xiaomi_sm6150-common.git -b U device/xiaomi/sm6150-common
